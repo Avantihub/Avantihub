@@ -28,7 +28,7 @@
 
 ### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Avantihub&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Find me around the web
 
