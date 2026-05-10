@@ -34,5 +34,5 @@
 
 | Platform         | Link                                                        | Description                 |
 | ---------------- | ----------------------------------------------------------- | --------------------------- |
-| **`💻 GitHub`**  | [github.com/YOUR_USERNAME](https://github.com/Avantihub) | My projects & contributions |
-| **`📧 Email`**   | [YOUR_EMAIL](mailto:zmianding@gmail.com)                              | Professional inquiries      |
+| **`💻 GitHub`**  | [github.com/Avantihub](https://github.com/Avantihub) | My projects & contributions |
+| **`📧 Email`**   | [zmianding@gmail.com](mailto:zmianding@gmail.com)                              | My email      |
